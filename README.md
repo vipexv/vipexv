@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @vipex
-- 👀 I’m interested in Nothing.
-- Languages Known: LUA
-- 🌱 I’m currently learning Currently Lua, HTML, CSS.
+- 👀 I’m interested in FiveM Developing.
+- 🌱 I’m currently learning Currently HTML, CSS, JSS.
 - 💞️ I’m looking to collaborate on Nothing.
 - 📫 How to reach me: Please DM Me on Discord vipex#2027
 <!---
