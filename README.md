@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vipex
-- 👀 I’m interested in FiveM Developing.
+- 👀 I’m interested in FiveM Development.
 - 🌱 Languages that i currently know: LUA, Learning JS, HTML, CSS.
 - 📫 How to reach me: Please DM Me on Discord vipex#2027
 <!---
