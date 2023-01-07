@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm vipex</h1>
+<h1 align="center">Hi, I'm vipex</h1>
 <h3 align="center">Currently Focused on mainly developing FiveM Resources, and server's.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipexv&label=Profile%20views&color=0e75b6&style=flat" alt="vipexv" /> </p>
