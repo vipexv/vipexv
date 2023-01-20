@@ -7,10 +7,6 @@
 
 - 📫 How to reach me **vipex#2027 on Discord.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/@vipex.v/videos" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@vipex.v" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages That i Mostly Use:</h3>
 <p align="left"> <a href="https://www.lua.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.discordapp.com/attachments/839129248265666589/1060993145418027098/Lua-Logo.svg.png" alt="angular" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
