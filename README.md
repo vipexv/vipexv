@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipexv" alt="vipexv" /></a> </p>
 
-- 📫 How to reach me **vipex#2027 on Discord.**
+- 📫 **vipex#2027 on Discord To Contact me.**
 
 
 <h3 align="left">Languages That i Mostly Use:</h3>
