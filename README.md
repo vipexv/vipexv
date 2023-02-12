@@ -1,5 +1,3 @@
-<h3 align="center">Hi, I'm vipex Currently Focused on mainly developing FiveM Resources, and server's.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipexv&label=Profile%20views&color=0e75b6&style=flat" alt="vipexv" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipexv" alt="vipexv" /></a> </p>
