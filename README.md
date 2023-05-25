@@ -2,7 +2,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vipexv" alt="vipexv" /></a> </p>
 
-- 📫 **vipex#2027 [ || https://vipex.pages.dev/**]
+- 📫 **vipex#2027 || https://vipex.pages.dev/**
 
 
 <!-- <h3 align="Center"></h3> -->
