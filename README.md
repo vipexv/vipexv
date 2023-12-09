@@ -2,4 +2,4 @@
 
 - 📫 **vipex.v [Discord] || Website: [vipex.vercel.app](https://vipex.vercel.app)**
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vipexv)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=vipexv&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
